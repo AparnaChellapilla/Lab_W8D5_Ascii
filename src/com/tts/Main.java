@@ -124,8 +124,8 @@ public class Main {
                     System.out.println(k);
                 }
 
-                System.out.println("Random Lottery number 1: " + num1);
-                System.out.println("Random lottery number 2:"  + num2);
+                System.out.println("Your lotto number 1: " + num1);
+                System.out.println("Lotto number 2:"  + num2);
                 System.out.println("Magic ball number :" + magicNum);
             }
         }
